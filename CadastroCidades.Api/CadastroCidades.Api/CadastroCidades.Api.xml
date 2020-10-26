@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CadastroCidades.Api</name>
+    </assembly>
+    <members>
+        <member name="T:CadastroCidades.Api.Controllers.CadastroCidadeController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CadastroCidades.Api.Controllers.CadastroCidadeController.ListCidadeAsync">
+            <summary>
+            Pegar todas a cidades
+            </summary>
+            <returns>Objetos contendo valores de cidades</returns>
+        </member>
+        <member name="M:CadastroCidades.Api.Controllers.CadastroCidadeController.GetNomeCidade(System.String)">
+            <summary>
+            Pegar uma cidade
+            </summary>
+            /// <param nomeCidade="nomeCidade">Nome da cidade</param>
+            <returns>Objeto contendo valor de cidade</returns>
+        </member>
+        <member name="M:CadastroCidades.Api.Controllers.CadastroCidadeController.UpdateCidade(System.Int32,cadastrocidades.Domain.Models.Cidade)">
+            <summary>
+            Altera uma cidade
+            </summary>
+            <param id="id">Id da cidade</param>
+            <returns>Resultado do processamento</returns>
+        </member>
+        <member name="M:CadastroCidades.Api.Controllers.CadastroCidadeController.Create(cadastrocidades.Domain.Models.Cidade)">
+            <summary>
+            Adiciona uma cidade uma cidade
+            </summary>
+            <param>Cidade</param>
+            <returns>Resultado do processamento</returns>
+        </member>
+    </members>
+</doc>

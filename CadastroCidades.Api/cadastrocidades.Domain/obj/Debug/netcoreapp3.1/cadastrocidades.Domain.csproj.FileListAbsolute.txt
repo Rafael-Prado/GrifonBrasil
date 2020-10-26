@@ -1,0 +1,9 @@
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\obj\Debug\netcoreapp3.1\cadastrocidades.Domain.csprojAssemblyReference.cache
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\obj\Debug\netcoreapp3.1\cadastrocidades.Domain.AssemblyInfoInputs.cache
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\obj\Debug\netcoreapp3.1\cadastrocidades.Domain.AssemblyInfo.cs
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\bin\Debug\netcoreapp3.1\cadastrocidades.Domain.deps.json
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\bin\Debug\netcoreapp3.1\cadastrocidades.Domain.dll
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\bin\Debug\netcoreapp3.1\cadastrocidades.Domain.pdb
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\obj\Debug\netcoreapp3.1\cadastrocidades.Domain.dll
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\obj\Debug\netcoreapp3.1\cadastrocidades.Domain.pdb
+D:\grifon\CadastroCidades.Api\cadastrocidades.Domain\obj\Debug\netcoreapp3.1\cadastrocidades.Domain.csproj.CoreCompileInputs.cache

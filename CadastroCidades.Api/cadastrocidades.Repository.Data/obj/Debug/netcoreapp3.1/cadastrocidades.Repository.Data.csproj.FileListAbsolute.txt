@@ -1,0 +1,12 @@
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\bin\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.deps.json
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\bin\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.dll
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\obj\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.csprojAssemblyReference.cache
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\obj\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.AssemblyInfoInputs.cache
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\obj\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.AssemblyInfo.cs
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\obj\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.csproj.CoreCompileInputs.cache
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\bin\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.pdb
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\bin\Debug\netcoreapp3.1\cadastrocidades.Domain.dll
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\bin\Debug\netcoreapp3.1\cadastrocidades.Domain.pdb
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\obj\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.csproj.CopyComplete
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\obj\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.dll
+D:\grifon\CadastroCidades.Api\cadastrocidades.Repository.Data\obj\Debug\netcoreapp3.1\cadastrocidades.Repository.Data.pdb
