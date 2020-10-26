@@ -1,0 +1,227 @@
+# As 5 amostras de embarque aprovadas que precisam de wwwroot / lib / podem adicionar um .gitignore local que permite wwwroot / lib /.
+# com 2.1 modelos e excluindo .min e .map -> 27 arquivos e <1 KB
+# 3.0 modelos devem ser ainda menos
+# wwwroot / lib /
+# Quando wwwroot / lib / é comentado, exclua os arquivos .min e .map
+* .min.css
+* .min.js
+* .map
+
+_build /
+_site /
+Propriedades /
+
+# Veja # 577
+# Use git add -f para forçar a substituição .sln quando necessário. Não é necessário na maioria dos casos.
+# git add -f myProj.sln
+* .sln
+
+Project_Readme.html
+
+# # Ignore arquivos temporários do Visual Studio, crie resultados e
+# # arquivos gerados por add-ons populares do Visual Studio.
+
+# Arquivos específicos do usuário
+* .suo
+* .user
+* .userosscache
+* .sln.docstates
+.vscode /
+! .vscode / extensions.json
+! .vscode / settings.json
+# Arquivos específicos do usuário (MonoDevelop / Xamarin Studio)
+* .userprefs
+
+# Build results
+[ Dd ] ebug /
+[ Dd ] ebugPublic /
+[ Rr ] elease /
+[ Rr ] eleases /
+x64 /
+x86 /
+construir /
+bld /
+[ Bb ] em /
+[ Oo ] bj /
+
+# Visual Studo 2015 cache / diretório de opções
+.vs /
+
+# Resultados do teste MSTest
+[ Tt ] est [ Rr ] esult * /
+[ Bb ] uild [ Ll ] og. *
+
+# NUNIT
+* .VisualState.xml
+TestResult.xml
+
+# Compilar resultados de um projeto ATL
+[ Dd ] ebugPS /
+[ Rr ] eleasePS /
+dlldata.c
+
+* _i.c
+* _p.c
+* _i.h
+* .ilk
+* .meta
+* .obj
+* .pch
+* .pdb
+* .pgc
+* .pgd
+* .rsp
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .tmp_proj
+* .log
+* .vspscc
+* .vssscc
+.builds
+* .pidb
+* .svclog
+* .scc
+
+# Arquivos de teste Chutzpah
+_Chutzpah *
+
+# Arquivos de cache do Visual C ++
+ipch /
+* .aps
+* .ncb
+* .opensdf
+* .sdf
+* .cachefile
+
+# Criador de perfil do Visual Studio
+* .psess
+* .vsp
+* .vspx
+
+# Espaço de trabalho local do TFS 2012
+$ tf /
+
+# Guidance Automation Toolkit
+* .gpState
+
+# ReSharper é um suplemento de codificação .NET
+_ReSharper * /
+* . [ Rr ] e [ Ss ] Harper
+* .DotSettings.user
+
+# JustCode é um suplemento de codificação .NET
+.JustCode
+
+# TeamCity é um suplemento de construção
+_TeamCity *
+
+# DotCover é uma ferramenta de cobertura de código
+* .dotCover
+
+# NCrunch
+_NCrunch_ *
+. * crunch * .local.xml
+
+# MightyMoose
+* .mm. *
+AutoTest.Net /
+
+# Web workbench (sass)
+.sass-cache /
+
+# Pasta de saída Installshield
+[ Ee ] xpress /
+
+# DocProject é um suplemento gerador de documentação
+DocProject / buildhelp /
+DocProject / Help / * .HxT
+DocProject / Help / * .HxC
+DocProject / Help / * .hhc
+DocProject / Help / * .hhk
+DocProject / Help / * .hhp
+DocProject / Help / Html2
+DocProject / Help / html
+
+# Diretório Click-Once
+publicar /
+
+# Publicar saída da Web
+* . [ Pp ] ublish.xml
+* .azurePubxml
+# TODO: Comente a próxima linha se quiser verificar suas configurações de implantação da web
+# mas as strings de conexão do banco de dados (com possíveis senhas) serão descriptografadas
+* .pubxml
+* .publishproj
+
+# Pacotes NuGet
+* .nupkg
+# A pasta de pacotes pode ser ignorada devido ao Package Restore
+** / packages / *
+# exceto build /, que é usado como um destino MSBuild.
+! ** / packages / build /
+# Remova o comentário se necessário, mas geralmente será regenerado quando necessário
+# ! ** / packages / repositories.config
+
+# Saída de compilação do Windows Azure
+csx /
+* .build.csdef
+
+# Diretório de pacote de aplicativos da Windows Store
+AppPackages /
+
+# Outros
+* . [ Cc ] dor
+ClientBin /
+[ Ss ] tyle [ Cc ] op. *
+~ $ *
+* ~
+* .dbmdl
+* .dbproj.schemaview
+* .pfx
+* .publishsettings
+node_modules /
+bower_components /
+
+# Projetos RIA / Silverlight
+Generated_Code /
+
+# Fazer backup e relatar arquivos de conversão de um arquivo de projeto antigo
+# para uma versão mais recente do Visual Studio. Arquivos de backup não são necessários,
+# porque temos git ;-)
+_UpgradeReport_Files /
+Backup * /
+UpgradeLog * .XML
+UpgradeLog * .htm
+
+# Arquivos do SQL Server
+* .mdf
+* .ldf
+
+# Projetos de Business Intelligence
+* .rdl.data
+* .bim.layout
+* .Bim_ * .settings
+
+# Microsoft Fakes
+FakesAssemblies /
+
+# Node.js Ferramentas para Visual Studio
+.ntvs_analysis.dat
+
+# Log de compilação do Visual Studio 6
+* .plg
+
+# Arquivo de opções do espaço de trabalho do Visual Studio 6
+* .opt
+
+project.lock.json
+__pycache__ /
+
+# Mac OSX
+.DS_Store
+
+# Arquivos de cache de miniatura do Windows
+Thumbs.db
